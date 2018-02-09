@@ -178,7 +178,7 @@ public class Menu extends javax.swing.JPanel {
         lbTitoloTMonete.setFont(new java.awt.Font("Lucida Grande", 3, 18)); // NOI18N
         lbTitoloTMonete.setText("Tabella monete resto:");
 
-        lbOrologio.setFont(new java.awt.Font("New Peninim MT", 1, 100)); // NOI18N
+        lbOrologio.setFont(new java.awt.Font("New Peninim MT", 1, 48)); // NOI18N
         lbOrologio.setForeground(new java.awt.Color(255, 255, 255));
         lbOrologio.setText("jLabel1");
 
